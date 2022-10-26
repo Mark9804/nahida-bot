@@ -1,0 +1,16 @@
+{
+  "name": "nahida-bot",
+  "version": "1.0.0",
+  "description": "腾讯 QQ 中的原神机器人",
+  "type": "module",
+  "engines": {
+    "node": ">16.6.0"
+  },
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mark Chen",
+  "license": "MIT"
+}
